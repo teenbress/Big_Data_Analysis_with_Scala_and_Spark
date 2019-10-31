@@ -7,10 +7,11 @@ Learning Outcomes. By the end of this course you will be able to:
 - Read data from persistent storage and load it into Apache Spark;
 - Manipulate data with Spark and Scala;
 - Express algorithms for data analysis in a functional style;
-- Recognize how to avoid shuffles and recomputation in Spark;
+- Recognize how to avoid shuffles and recomputation in Spark;  
+
 Recommended background: You should have at least one year programming experience. Proficiency with Java or C# is ideal, but experience with other languages such as C/C++, Python, Javascript or Ruby is also sufficient. You should have some familiarity using the command line. This course is intended to be taken after [Parallel Programming](https://www.coursera.org/learn/parprog1).
 
 ## Datasets
-- Week 1: [wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
+- Week 1: [Wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
 - Week 2: [StackOverflow](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
 - Week 3: [TimeUsage](http://alaska.epfl.ch/~dockermoocs/bigdata/atussum.csv)
