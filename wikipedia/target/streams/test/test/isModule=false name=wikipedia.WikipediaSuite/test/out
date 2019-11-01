@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mWikipediaSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'occurrencesOfLang' should work for (specific) RDD with one element[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'rankLangs' should work for RDD with two elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'makeIndex' creates a simple index with two entries[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'rankLangsUsingIndex' should work for a simple RDD with three elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- 'rankLangsReduceByKey' should work for a simple RDD with four elements[0m[0m
