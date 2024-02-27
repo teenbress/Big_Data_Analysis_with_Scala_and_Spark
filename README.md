@@ -1,2 +1,2 @@
-# scalable_machine_learning
-Materials of Edx Scalable Machine Learning class on Spark and Coursera Big Data Analysis with Scala and Spark
+# Scalable Machine Learning
+Practices of Scalable Machine Learning on PySpark and Coursera Big Data Analysis with Scala and Spark
